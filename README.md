@@ -18,11 +18,13 @@ Why is Mockito required?
 -- Setup --
 
 dependencies {
+
     // ...
     testImplementation 'junit:junit:4.13.1'
     testImplementation 'org.mockito:mockito-core:3.11.2'
     testImplementation 'org.mockito:mockito-inline:3.11.2'
     testImplementation 'org.mockito:mockito-kotlin:2.2.0'
+
 }
 
 * Create a simple Android application with a single activity.
