@@ -1,6 +1,6 @@
 # Unit-Testing-With-Mockito-Framework
 
-1. What is Mockito?
+What is Mockito?
 
 Mockito is a popular open-source testing framework to create and configure mock objects for unit testing purposes
 Now what are mock objects? Mock objects are used to replace real objects
